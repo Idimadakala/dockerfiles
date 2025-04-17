@@ -1,0 +1,1 @@
+FROM is the starting step in the Dockerfile
