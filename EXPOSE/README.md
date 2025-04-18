@@ -1,0 +1,1 @@
+Expose instruction will tell the users on which port and protocol the running container accepting the traffic
